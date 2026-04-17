@@ -2,7 +2,8 @@
 
 ## Real-Time Traffic Sign Classification using CNNs
 
-**Authors:** Shawn Kubo et al.
+**Authors:** Aeon Levy, Shawn Ding, Arnav Jain, Tianyin Mao
+
 
 ---
 
